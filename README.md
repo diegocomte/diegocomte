@@ -13,7 +13,7 @@
 <div>
 <a href="https://github.com/diegocomte">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocomte&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegocomte&show_icons=true&theme=dracula&&locale=en"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegocomte&show_icons=true&theme=dracula"/>
 </div>
   
   <h3 align="left">Linguagens e recursos:</h3>
