@@ -12,8 +12,8 @@
 ### Estatísticas
 <div>
 <a href="https://github.com/diegocomte">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocomte&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegocomte&show_icons=true&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocomte&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegocomte&show_icons=true&theme=dracula"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diegocomte&label=Profile%20views&color=ce9927&style=flat&private=true" alt="Diego Conte" /> </p>
 </div>
   
