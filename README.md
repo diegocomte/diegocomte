@@ -8,7 +8,7 @@
 
 📈 Acompanhe meus projetos e não hesite em entrar em contato.
 
-📈 [Currículo](https://drive.google.com/file/d/1Cb6YrzO73XnJPVkxlOlhfJYfCsHsK0sQ/view?usp=sharing)
+📈 [Currículo](https://drive.google.com/file/d/154DO6KWc6jB-pdbBBzMooG3KCSjlqMeG/view?usp=sharing)
 
 
 ### Estatísticas
