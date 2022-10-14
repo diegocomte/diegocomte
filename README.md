@@ -2,7 +2,7 @@
 
 ### Boas-vindas ao meu perfil GitHub 👋
 
-📘 Desenvolvedor WEB Front-End, sou estudante Full-Stack na Labenu. Já empreendi projetos individuais e em grupo que recriaram as experiências de usuários de aplicativos como IFood, Tinder, Spotify, sites de E-Commerce e sites de viagens. Para tal, aprofundei habilidades relativas a JavaScript, CSS, HTML, Scrum, Kanban.
+📘 Desenvolvedor Full-Stack e RPA, já empreendi projetos individuais e em grupo que recriaram as experiências de usuários de aplicativos como IFood, Tinder, Spotify, sites de E-Commerce e sites de viagens. Também desenvolvi automações no ramo jurídico e administrativo. Para tal, aprofundei habilidades relativas a JavaScript, CSS, HTML, Scrum, Kanban.
 
 📘 Estudante de Análise e Desenvolvimento de Sistemas.
 
